@@ -1,0 +1,40 @@
+{
+    "foyer": [
+    {"Element Type": "Item", "Element Name": "Coat Rack", "Dialog Text": "You brush dust off the coat rack. Something clinks—it's a key hidden inside a sleeve."},
+    {"Element Type": "Item", "Element Name": "Umbrella Stand", "Dialog Text": "An old umbrella stand. Empty... but it's been moved recently."},
+    {"Element Type": "Exit", "Element Name": "To Living Room", "Dialog Text": "A wooden door leads into the living room. You hear a faint ticking beyond it."},
+    {"Element Type": "Exit", "Element Name": "To Dining Room", "Dialog Text": "The dining room lies behind this door. The scent of old food seeps through."},
+    {"Element Type": "Exit", "Element Name": "To Stairs", "Dialog Text": "The staircase winds upward into darkness. Cold air drifts down the steps."},
+    {"Element Type": "Opening Dialog", "Element Name": "Foyer", "Dialog Text": "You step into the foyer of Hargrave Manor. It's silent. The air is thick with memory."}
+    ],
+    "living_room": [
+    {"Element Type": "Item", "Element Name": "Mirror", "Dialog Text": "The mirror is clouded, but for a moment, a pale reflection moves where yours should be."},
+    {"Element Type": "Item", "Element Name": "Picture Frame", "Dialog Text": "The picture frame holds a faded photo. Scribbled on the back: 'They never saw it coming.'"},
+    {"Element Type": "Exit", "Element Name": "To Foyer", "Dialog Text": "You glance back toward the foyer. It feels further away than it should."},
+    {"Element Type": "Exit", "Element Name": "To Library", "Dialog Text": "The library door creaks open slightly as if inviting you in."},
+    {"Element Type": "Opening Dialog", "Element Name": "Living Room", "Dialog Text": "Dust motes dance in the filtered light. The silence is deeper here, like the room is holding its breath."}
+    ],
+    "dining_room": [
+    {"Element Type": "Item", "Element Name": "Portrait", "Dialog Text": "A large portrait of a stern-faced man. The eyes almost seem to follow you."},
+    {"Element Type": "Item", "Element Name": "Sideboard Drawer", "Dialog Text": "The drawer creaks open. Inside, a slip of paper with faded numbers—could this be a code?"},
+    {"Element Type": "Exit", "Element Name": "To Foyer", "Dialog Text": "The foyer door remains ajar, the chill from the entrance still lingering."},
+    {"Element Type": "Exit", "Element Name": "To Kitchen", "Dialog Text": "The door to the kitchen swings on old hinges, revealing shadows beyond."},
+    {"Element Type": "Opening Dialog", "Element Name": "Dining Room", "Dialog Text": "The long dining table is set for a meal that never came. Dust-covered plates rest like silent witnesses."}
+    ],
+    "kitchen": [
+    {"Element Type": "Item", "Element Name": "Stove", "Dialog Text": "The stove's surface is cold, but a faint warmth lingers beneath the burners."},
+    {"Element Type": "Item", "Element Name": "Cabinet", "Dialog Text": "Inside the cabinet, cracked dishes and a faded note: 'He said not to enter the basement...'."},
+    {"Element Type": "Item", "Element Name": "Refrigerator", "Dialog Text": "The refrigerator creaks open. Empty, except for a rusted key tied with string."},
+    {"Element Type": "Exit", "Element Name": "To Dining Room", "Dialog Text": "The dining room door sits crooked on its hinges, letting in a draft."},
+    {"Element Type": "Exit", "Element Name": "To Pantry", "Dialog Text": "A sliding door leads into a small pantry. Something shifts in the shadows."},
+    {"Element Type": "Exit", "Element Name": "To Basement Stairs", "Dialog Text": "A heavy door with scratch marks leads to the basement stairs. It smells like mold and metal."},
+    {"Element Type": "Opening Dialog", "Element Name": "Kitchen", "Dialog Text": "Dust hangs in the air. The lights flicker as you enter, illuminating grime-covered counters and age-worn appliances."}
+    ],
+    "library": [
+    {"Element Type": "Item", "Element Name": "Bookshelf", "Dialog Text": "The bookshelf is overflowing. One book is out of place... it's hollow."},
+    {"Element Type": "Item", "Element Name": "Candle", "Dialog Text": "The candle is half-burnt. As you touch it, a breeze ignites the wick."},
+    {"Element Type": "Item", "Element Name": "Journal", "Dialog Text": "An old journal lies open. Drevan’s notes scrawl into madness in the final pages."},
+    {"Element Type": "Exit", "Element Name": "To Living Room", "Dialog Text": "The living room door creaks with familiarity."},
+    {"Element Type": "Opening Dialog", "Element Name": "Library", "Dialog Text": "You step into the library. Dust blankets everything. The scent of paper and something older fills the room."}
+    ]
+    }
